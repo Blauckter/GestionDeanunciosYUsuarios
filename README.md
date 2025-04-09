@@ -22,3 +22,6 @@ Este proyecto es un sistema backend desarrollado en **.NET 9** con **Clean Archi
 - `WebApi/`: Controladores, configuración de endpoints y seguridad.
 - `BackendGestionAnuncios.sln`: Archivo de solución para Visual Studio.
 
+- ## 🛠️ Scripts útiles para ejecutar el proyecto
+- `Ejecutar el proyecto/`:	dotnet run --project WebApi
+
