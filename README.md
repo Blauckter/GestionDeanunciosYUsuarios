@@ -12,13 +12,12 @@ Este proyecto es un sistema backend desarrollado en **.NET 9** con **Clean Archi
 - JWT Authentication
 - Swagger
 - Git
-- Postman (opcional para pruebas)
 
 ---
 
 ## 🏗️ Estructura del Proyecto
-- `Application/`: Lógica de negocio y servicios de aplicación.
+- `Application/`: Lógica de aplicación (casos de uso, interfaces)
 - `Domain/`: Entidades y contratos.
-- `Infrastructure/`: Conexión a base de datos y servicios externos.
+- `Infrastructure/`: Acceso a datos (EF Core, repositorios, migraciones)
 - `WebApi/`: Controladores, configuración de endpoints y seguridad.
 - `BackendGestionAnuncios.sln`: Archivo de solución para Visual Studio.
