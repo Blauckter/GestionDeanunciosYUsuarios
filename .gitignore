@@ -1,0 +1,21 @@
+# Archivos de compilación
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# SQLite DB
+*.db
+
+# Archivos de logs o generados
+*.log
+*.vs/
+*.DS_Store
+.env
