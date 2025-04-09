@@ -25,3 +25,10 @@ Este proyecto es un sistema backend desarrollado en **.NET 9** con **Clean Archi
 - ## 🛠️ Scripts útiles para ejecutar el proyecto
 - `Ejecutar el proyecto/`:	dotnet run --project WebApi
 
+## 📦 Colección Postman
+
+Incluye pruebas de login, anuncios, usuarios, roles y permisos protegidos por JWT.
+
+📁 Archivo: `GestionDeAnuncios.postman_collection.json`
+
+
