@@ -21,3 +21,4 @@ Este proyecto es un sistema backend desarrollado en **.NET 9** con **Clean Archi
 - `Infrastructure/`: Acceso a datos (EF Core, repositorios, migraciones)
 - `WebApi/`: Controladores, configuración de endpoints y seguridad.
 - `BackendGestionAnuncios.sln`: Archivo de solución para Visual Studio.
+
